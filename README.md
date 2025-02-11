@@ -1,5 +1,5 @@
 # UnifyAudio
-This is a little plugin to unify the design and look of Legacy and NPF Tumblr audio posts with some JS, HTML and CSS.
+This is a little plugin to unify the design and style of Legacy and NPF Tumblr audio posts with some JS, HTML and CSS.
 
 This is an example of the output for both Legacy and npf:
 
