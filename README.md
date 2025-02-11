@@ -23,3 +23,6 @@ We're going to copy the structure of Tumblr's own npf html audio output, that wa
 The styling of the audio posts is needed as well. I've made some comments in the `style.css` and hopefully that's going to give you an idea. Use Chrome devtools/Firefox inspect to get a handle of it.
 
 You're more than welcome do whatever you want with it, as long as you keep the structure of the html. For example, you can hide the progress-bar-container with CSS, if you don't want a track and time display, etc.
+
+## Comments
+I'm unaware how well this works with Infite scroll, I will not support this I'm afraid.
